@@ -1,0 +1,9 @@
+# .idea folder
+.idea
+# module files
+*.iml
+# venv folder
+venv
+# media files
+media
+partial_movie_files
